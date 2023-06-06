@@ -228,6 +228,12 @@ body{
         justify-content: space-between;
         gap:0;
     }
+    .access{
+        cursor: pointer;
+    }
+    .access:hover{
+        background-color: #B3FFE2;
+    }
     .pattern{
         display: flex;
         padding-right: 1px;
